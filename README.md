@@ -20,15 +20,15 @@ To use the `RunPod-GPU-Tester`, follow these simple steps:
 
 1. Download the script directly into your RunPod environment using the following command:
 
-   \```bash
+   ```
    wget https://github.com/kodxana/RunPod-GPU-Tester/raw/main/tester.py -O tester.py
-   \```
+   ```
 
 2. Run the script using Python:
 
-   \```bash
+   ```
    python tester.py
-   \```
+   ```
 
 3. After the script completes, it will generate a `gpu_diagnostics.json` file in the `/workspace` directory. Share this file with RunPod tech support for further analysis and assistance.
 
